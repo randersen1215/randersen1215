@@ -1,4 +1,4 @@
-## This is my first introduction to github, despite being in the Computer Science space off and on my whole life.  It's pretty badass.👋
+# This is my first introduction to github, despite being in the Computer Science space off and on my whole life.  It's pretty badass.👋
 
 <!--
 **randersen1215/randersen1215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
